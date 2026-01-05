@@ -1,0 +1,12 @@
+{
+  "file_name": "policies_yyyymmdd.csv",
+  "expected_rows": 3,
+  "expected_columns": [
+    "Policy_ID",
+    "Customer_ID",
+    "Policy_Type",
+    "Premium_Amount",
+    "Start_Date"
+  ],
+  "expected_extension": ".csv"
+}

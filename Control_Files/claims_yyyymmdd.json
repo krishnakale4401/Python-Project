@@ -1,0 +1,11 @@
+{
+  "file_name": "claims_yyyymmdd.csv",
+  "expected_rows": 3,
+  "expected_columns": [
+    "Claim_ID",
+    "Policy_ID",
+    "Claim_Amount",
+    "Claim_Date"
+  ],
+  "expected_extension": ".csv"
+}

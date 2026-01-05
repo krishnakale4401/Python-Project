@@ -1,0 +1,11 @@
+{
+  "file_name": "agents_yyyymmdd.csv",
+  "expected_rows": 3,
+  "expected_columns": [
+    "Agent_ID",
+    "Agent_Name",
+    "Region",
+    "Commission_Percent"
+  ],
+  "expected_extension": ".csv"
+}
